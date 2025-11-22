@@ -2,15 +2,9 @@
 
 ## 📱 Overview
 
-This project is a simple **Mobile Banking Application** built using **plain JavaScript**, **HTML**, and **CSS**. It was developed for **learning purposes**, mainly to practice working with **arrays**, **functions**, and **basic DOM manipulation**.
+The Mobile Banking Application is a simple, browser-based banking simulation developed using JavaScript, HTML, and CSS. Its purpose is to demonstrate the core concepts of programming, including data structures, functions, and user interface updates, while simulating real-world banking operations.
 
-## 🧠 Learning Objectives
-
-* Understand how to structure data using **arrays**
-* Use **functions** to perform operations such as login, transferring money, and updating account data
-* Practice core JavaScript logic without relying on frameworks
-* Apply basic **frontend design** with HTML & CSS
-
+This project is designed for learners and developers who want to practice JavaScript fundamentals and understand how basic banking operations—like logging in, viewing transactions, and transferring money can be implemented programmatically.
 ## 👥 User Accounts
 
 The application includes **four demo accounts**, each with a **username** and a **PIN**:
